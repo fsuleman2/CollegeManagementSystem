@@ -4,7 +4,7 @@
 * C#
 * ADO.NET
 * MICROSOFT SQL SERVER
-<br>
+
 ## Screenshots
 ## <h5>Over All Workflow</h5>
 <img src="images/MagneqApp.png" width=800px height=500px><br>
