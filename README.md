@@ -1,6 +1,10 @@
 # MagneqApp
 ## College Automation System Devloped using .NET FRAMEWORK AND SQL SERVER
-
+## Build with
+* C#
+* ADO.NET
+* MICROSOFT SQL SERVER
+<br>
 ## Screenshots
 ## <h5>Over All Workflow</h5>
 <img src="images/MagneqApp.png" width=800px height=500px><br>
