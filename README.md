@@ -1,5 +1,4 @@
 # College Automation System
-## College Automation System is developed using .NET FRAMEWORK AND SQL SERVER
 ## Build with
 * C#
 * ADO.NET
