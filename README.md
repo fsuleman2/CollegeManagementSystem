@@ -1,4 +1,5 @@
-# College Automation System
+# MagneApp
+## MagneqApp is a College Automation System, built to provide an efficient management system to the various educational institutions to handle the student's data smoothly.
 ## Build with
 * C#
 * ADO.NET
